@@ -15,4 +15,7 @@ class Local extends Model
     public function sector(){
         return $this->belongsTo('App\Sector', 'sector_id');
     }
+
+    public function prueba() {
+    }
 }
