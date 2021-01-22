@@ -18,4 +18,6 @@ class Local extends Model
 
     public function prueba() {
     }
+
+    public function prueba2() {}
 }
